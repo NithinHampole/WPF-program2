@@ -1,0 +1,15 @@
+C:\Users\Prodigy\source\repos\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+C:\Users\Prodigy\source\repos\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+C:\Users\Prodigy\source\repos\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+C:\Users\Prodigy\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfPgm2.csproj.AssemblyReference.cache
+C:\Users\Prodigy\source\repos\WpfApp3\WpfApp3\obj\Debug\MainWindow.g.cs
+C:\Users\Prodigy\source\repos\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+C:\Users\Prodigy\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\Prodigy\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\Prodigy\source\repos\WpfApp3\WpfApp3\obj\Debug\MainWindow.baml
+C:\Users\Prodigy\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+C:\Users\Prodigy\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\Prodigy\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfPgm2.csproj.GenerateResource.cache
+C:\Users\Prodigy\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfPgm2.csproj.CoreCompileInputs.cache
+C:\Users\Prodigy\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+C:\Users\Prodigy\source\repos\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
